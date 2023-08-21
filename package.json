@@ -1,0 +1,21 @@
+{
+  "name": "ubusetup",
+  "version": "0.0.1",
+  "description": "A NodeJS CLI to setup development environments blazingly fast!",
+  "main": "ubusetup.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "dev",
+    "webdev",
+    "js",
+    "javascript",
+    "linux",
+    "ubuntu"
+  ],
+  "author": "alvaroid01",
+  "license": "ISC"
+}
